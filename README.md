@@ -33,4 +33,5 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 10. Pure CSS create Parallax Scrolling Effect (https://youtu.be/9vQBecGbDZw)
 11. ReactJS Face Authentication using FaceIO (https://youtu.be/ZoxutS_kRC8)
 12. String To Slug
-13. Vite Absolute Relative Import
+13. Vite absolute relative import
+14. Parse query params
