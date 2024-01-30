@@ -34,4 +34,4 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 11. ReactJS Face Authentication using FaceIO (https://youtu.be/ZoxutS_kRC8)
 12. String To Slug
 13. Vite absolute relative import
-14. Parse query params
+14. Parse query params for MongoDB
