@@ -6,20 +6,6 @@
 * **npm >= v6.14.7**
 * **yarn >= v1.19.1**
 
-## Clone project and run (for only Javascript files)
-
-```
-$ git clone https://git_url_clone <project_dir>
-$ cd <project_dir>
-$ node folder_name/file_name.js
-```
-
-## Clone project and run (for HTML - CSS files)
-
-```
-Just open file .html on your browser (I prefer Google Chrome than others)
-```
-
 ## Table of contents
 1. Capitalize First Letter
 2. CORS Options
@@ -35,3 +21,4 @@ Just open file .html on your browser (I prefer Google Chrome than others)
 12. String To Slug
 13. Vite absolute relative import
 14. Parse query params for MongoDB
+15. HTTP Status Codes
